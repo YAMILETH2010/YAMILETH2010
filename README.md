@@ -6,7 +6,7 @@
 
 # Entre los badges de tecnologías que he aprendido en el bootcamp estan: git, github, n8n, agentes de las IA
 
-# Les muestro mi proyecto con el que inicie el uso de git y se llama: git-class
+# Les muestro mi proyecto con el que inicie el uso de git y se llama: https://github.com/users/YAMILETH2010/projects/3
 
 # my correo institucional es evelyn.yamileth.martinez@clases.edu.sv
 

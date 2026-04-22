@@ -1,0 +1,24 @@
+# este es una introduccion sobre git
+
+# un poco sobre mis pasatiempos
+- me gusta programar
+- me gusta correr
+- me gusta bailar
+- me gusta explorar la naturaleza
+
+# algo sobre mis viajes
+- viajo al encuentro
+- viajo al mercado
+- viajo al trabajo
+
+# algo sobre mi trabajo
+- soy docente de desarrollo de software
+- me gusta enseñar
+- me gusta programar
+- me gusta compartir conocimientos
+
+# algo sobre mi vida
+- vivo en San Miguel
+- tengo 30 años
+- soy soltero
+- tengo un perro llamado Zeus

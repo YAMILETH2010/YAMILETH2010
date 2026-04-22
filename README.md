@@ -1,11 +1,10 @@
-## Hi there 👋
+# BIENVENIDO/A SOY EVELYN MARTINEZ 
 
-<!--
-**YAMILETH2010/YAMILETH2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="480" height="340" alt="WelcomeYoureWelcomeGIF" src="https://github.com/user-attachments/assets/639d340f-8f26-4dd0-84ff-9498d3eaf2ba" />
 
-Here are some ideas to get you started:
+# Soy docente de desarrollo de software, me agrada trabajar con la tecnologia porque me permite explotar la creatividad de los estudiantes usando firework, capcut, inshut, entre otros. 
 
-- 🔭 I’m currently working on ...
+# Entre los badges de tecnologías que he aprendido en el bootcamp estan: git, github, n8n, agentes de las IA
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
